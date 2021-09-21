@@ -1,4 +1,4 @@
-# Pasta com alguns mini projetos de javascript e html-css
+# Pasta com alguns mini projetos de JavaScript, HTML e CSS
 
 #### Esse repositório possui apenas alguns exercícios simples para fixar e treinar alguns conceitos de js junto com html-css
 
